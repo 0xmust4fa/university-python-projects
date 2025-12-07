@@ -15,6 +15,6 @@ Takes length and width of a rectangle and calculates:
 
 
 Files:
-- welcome.py
-- average.py
-- rectangle.py
+- task1_welcome.py
+- task2_average.py
+- task3_rectangle.py
